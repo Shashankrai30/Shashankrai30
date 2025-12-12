@@ -99,9 +99,9 @@ Replace YOUR_USERNAME_HERE with your GitHub username.
 🌐 Connect With Me
 
 LeetCode: https://leetcode.com/u/Shashankrai30/
-**
+
 LinkedIn: https://www.linkedin.com/in/Shashankrai30/
-**
+
 Email: raishashank1462@gmail.com
 
 ⭐️ “Passionate about backend development, clean architecture, and scalable systems.”
