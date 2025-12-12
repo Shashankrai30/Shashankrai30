@@ -86,11 +86,9 @@ Strong academic performance (CGPA 8.8)
 
 Built multiple Java applications independently
 
-Solved 300+ DSA problems on various platforms
+Solved 400+ DSA problems on various platforms
 
 📊 GitHub Stats
-
-Replace YOUR_USERNAME_HERE with your GitHub username.
 
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashankrai30&show_icons=true&theme=default)
 
